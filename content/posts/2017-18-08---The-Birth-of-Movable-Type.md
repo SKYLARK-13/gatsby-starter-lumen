@@ -9,7 +9,7 @@ tags:
   - "React"
   - "Firebase"
 description: "Facebook clone with amazing user interface created by create-react-app, web app with google authentication process."
-
+---
 
 Facebook clone with amazing user interface created by create-react-app, web app with google authentication process.
 
