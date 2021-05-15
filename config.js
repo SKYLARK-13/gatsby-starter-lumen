@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Vikas Dubey',
+  subtitle: 'I am a CSE student and likes to develop react projects.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,18 +25,18 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Vikas Dubey',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'I am a CSE student and likes to develop react projects.',
     contacts: {
       email: '',
       facebook: '#',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'https://github.com/SKYLARK-13',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'linkedin.com/in/vikas-dubey-a58b97194/',
       instagram: '#',
       line: '',
       gitlab: '',
