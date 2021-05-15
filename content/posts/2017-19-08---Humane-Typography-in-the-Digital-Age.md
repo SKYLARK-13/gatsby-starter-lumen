@@ -10,7 +10,7 @@ tags:
   - "Redux"
   - "Firebase"
 description: "LinkedIn clone created using react and redux, redux is used to create a data layer around the react."
-
+---
 
 LinkedIn clone created using react and redux, redux is used to create a data layer around the react.
 
