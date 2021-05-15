@@ -15,8 +15,6 @@ description: "LinkedIn clone created using react and redux, redux is used to cre
 LinkedIn clone created using react and redux, redux is used to create a data layer around the react.
 
 
-## Screenshot of project
-
 ![linkedin](https://user-images.githubusercontent.com/60983778/118361832-aa3b1a80-b5aa-11eb-9363-6c3855ff7a59.jpg)
 
 *LinkedIn Clone*
