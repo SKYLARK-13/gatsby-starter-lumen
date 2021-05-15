@@ -1,51 +1,34 @@
 ---
-title: The Origins of Social Stationery Lettering
-date: "2016-12-01T22:40:32.169Z"
+title: Venture Tshirt Store MERN
+date: "2021-03-09T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "the-origins-of-social-stationery-lettering"
-category: "Design Culture"
-description: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante."
-socialImage: "/media/image-3.jpg"
+slug: "Venture Tshirt Store"
+category: "React Development/Web Development"
+tags:
+  - "MongoDB"
+  - "Express"
+  - "React"
+  - "NodeJS"
+description: "A Tshirt store developed using MERN with Bootstrap 5"
 ---
 
-**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. *Aenean ultricies mi vitae est.* Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. 
+A Tshirt store developed using MERN stack with Bootstrap 5 have all the basic functionalities like adding product to cart, removing from cart and purchasing.
 
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  [Donec non enim](#) in turpis pulvinar facilisis.
+![venture](https://user-images.githubusercontent.com/60983778/118363056-356adf00-b5b0-11eb-85b9-865a52db9ffd.jpg)
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-3.jpg)
+*Screenshot of Admin section*
 
-## Header Level 2
+The website has databse in mongodb for users and products, It is full comprised with CRUD operations, The website has admin section which allows admin to perform various operations available.
 
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
+The core website is deployed in heroku (backend) and netlify (frontend). Also it is integrated with Braintree/paypal payment gateway.
 
-Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. 
+The core part of website is deployed and running perfectly but advance changes are going on for the better user interface and advance functionalities
 
-<figure>
-	<blockquote>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
-		<footer>
-			<cite>— Aliquam tincidunt mauris eu risus.</cite>
-		</footer>
-	</blockquote>
-</figure>
+*To use website user can simply create account*
 
-### Header Level 3
+*For the admin section use email: elon@gmail.com pass: elon123*
 
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
+*[Host Link](https://venturetshirt.netlify.app/)*
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
-
-```css
-#header h1 a {
-  display: block;
-  width: 300px;
-  height: 80px;
-}
-```
-
-Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
-
-![Test SVG](/media/cpu.svg)
+*[Github URL](https://github.com/SKYLARK-13/venture-mern-client)*
