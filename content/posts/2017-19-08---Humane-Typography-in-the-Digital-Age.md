@@ -23,4 +23,4 @@ This web app has database and hosting in firebase. It consist of core functional
 
 *[Host Link](https://linkedin-clone-5e3e3.web.app/)*
 
-*[Github URL](https://github.com/SKYLARK-13/LinkedIn-clone).*
+*[Github URL](https://github.com/SKYLARK-13/LinkedIn-clone)*
